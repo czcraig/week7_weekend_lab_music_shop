@@ -1,3 +1,6 @@
+package InstrumentsTest;
+
+import Instruments.Trumpet;
 import org.junit.Before;
 import org.junit.Test;
 
@@ -39,4 +42,9 @@ public class TrumpetTest {
     public void canGetNoOfKey() {
         assertEquals(4, trumpet.getNumberOfValves());
     }
-}                                                                        
+
+    @Test
+    public void canPlay() {
+        assertEquals("beeewup bbbb beeb", trumpet.play());
+    }
+}

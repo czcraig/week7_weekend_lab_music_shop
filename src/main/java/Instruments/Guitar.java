@@ -1,4 +1,8 @@
-public class Guitar extends Instrument {
+package Instruments;
+
+import Behaviours.IPlay;
+
+public class Guitar extends Instrument  {
 
     private int numberOfStrings;
 

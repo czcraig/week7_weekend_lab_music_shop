@@ -1,3 +1,6 @@
+package InstrumentsTest;
+
+import Instruments.Piano;
 import org.junit.Before;
 import org.junit.Test;
 

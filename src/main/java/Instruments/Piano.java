@@ -1,3 +1,7 @@
+package Instruments;
+
+import Instruments.Instrument;
+
 public class Piano extends Instrument {
 
     private int numberOfKeys;
