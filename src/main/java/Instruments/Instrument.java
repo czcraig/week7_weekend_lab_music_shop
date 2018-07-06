@@ -1,6 +1,8 @@
 package Instruments;
 
-public abstract class Instrument {
+import Behaviours.ISell;
+
+public abstract class Instrument implements ISell {
 
 
     private String type;
@@ -33,6 +35,10 @@ public abstract class Instrument {
 
     public double getCostPrice() {
         return costPrice;
+    }
+
+    public double calculateMarkUp(){
+        return getSalePrice() - getCostPrice();
     }
 
 
