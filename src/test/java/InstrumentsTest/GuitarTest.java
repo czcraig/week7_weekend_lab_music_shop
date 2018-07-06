@@ -11,11 +11,9 @@ public class GuitarTest {
 
 
     @Before
-    public void before(){
+    public void before() {
         guitar = new Guitar("Electric", "Black", 150, 100, 6);
     }
-
-
 
 
     @Test
@@ -42,4 +40,13 @@ public class GuitarTest {
     public void canGetNoOfStrings() {
         assertEquals(6, guitar.getNumberOfStrings());
     }
+
+    @Test
+    public void canPLay() {
+        assertEquals("strum strum struuum", guitar.play());
+    }
 }
+
+
+
+
