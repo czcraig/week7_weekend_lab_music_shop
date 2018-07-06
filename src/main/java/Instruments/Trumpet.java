@@ -1,6 +1,7 @@
 package Instruments;
 
 import Behaviours.IPlay;
+import Instruments.Instrument;
 
 public class Trumpet extends Instrument implements IPlay {
 

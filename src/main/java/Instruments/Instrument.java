@@ -10,9 +10,6 @@ public abstract class Instrument implements ISell {
     private double salePrice;
     private double costPrice;
 
-    public Instrument() {
-    }
-
     public Instrument(String type, String colour, double salePrice, double costPrice){
         this.type = type;
         this.colour = colour;
