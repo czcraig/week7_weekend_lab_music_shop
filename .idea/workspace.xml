@@ -2,29 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="62455ebd-e0ab-4b69-811e-0aff2fd6047d" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/out/production/classes/ShopAccessories/GuitarPick.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/classes/ShopAccessories/SheetMusic.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/test/classes/AccessoriesTest/GuitarPickTest.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/test/classes/AccessoriesTest/SheetMusicTest.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/RaysMusicExchange.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/classes/Accessories/Accessories.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/classes/ShopAccessories/Accessories.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/classes/Accessories/GuitarPick.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/classes/Accessories/SheetMusic.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/classes/Instruments/Guitar.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/classes/Instruments/Guitar.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/classes/Instruments/Instrument.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/classes/Instruments/Instrument.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/classes/Instruments/Piano.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/classes/Instruments/Piano.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/test/classes/GuitarPickTest.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/test/classes/SheetMusicTest.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/AccessoriesTest/Accessories.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ShopAccessories/Accessories.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/AccessoriesTest/GuitarPick.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ShopAccessories/GuitarPick.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/AccessoriesTest/SheetMusic.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ShopAccessories/SheetMusic.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Behaviours/ISell.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Behaviours/ISell.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Instruments/Guitar.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Instruments/Guitar.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Instruments/Instrument.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Instruments/Instrument.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Instruments/Piano.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Instruments/Piano.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/AccessoriesTest/GuitarPickTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/AccessoriesTest/GuitarPickTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/AccessoriesTest/SheetMusicTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/AccessoriesTest/SheetMusicTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/RaysMusicExchange.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/RaysMusicExchange.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/.gradle/" />
@@ -98,10 +76,10 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="RaysMusicExchange.java" pinned="false" current-in-tab="false">
+      <file leaf-file-name="RaysMusicExchange.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/main/java/RaysMusicExchange.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="313">
+            <state relative-caret-position="216">
               <caret line="21" selection-start-line="21" selection-end-line="21" />
               <folding>
                 <element signature="imports" expanded="true" />
@@ -116,11 +94,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="RaysMusicExchangeTest.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="RaysMusicExchangeTest.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/test/java/RaysMusicExchangeTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="134">
-              <caret line="14" selection-start-line="14" selection-end-line="14" />
+            <state relative-caret-position="680">
+              <caret line="39" selection-start-line="39" selection-end-line="39" />
               <folding>
                 <element signature="imports" expanded="true" />
                 <element signature="e#528#529#0" expanded="true" />
@@ -502,8 +480,8 @@
         <option value="$PROJECT_DIR$/src/main/java/ShopAccessories/SheetMusic.java" />
         <option value="$PROJECT_DIR$/src/main/java/Instruments/Instrument.java" />
         <option value="$PROJECT_DIR$/src/test/java/Shoptest.java" />
-        <option value="$PROJECT_DIR$/src/main/java/RaysMusicExchange.java" />
         <option value="$PROJECT_DIR$/src/test/java/RaysMusicExchangeTest.java" />
+        <option value="$PROJECT_DIR$/src/main/java/RaysMusicExchange.java" />
       </list>
     </option>
   </component>
@@ -627,7 +605,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="JUnit.RaysMusicExchangeTest.canAddToStock">
+  <component name="RunManager" selected="JUnit.RaysMusicExchangeTest.canRemoveFromStock">
     <configuration default="true" type="Application" factoryName="Application">
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
     </configuration>
@@ -682,6 +660,23 @@
       </option>
       <patterns />
     </configuration>
+    <configuration name="RaysMusicExchangeTest.canRemoveFromStock" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="MusicShopHomeWorkLab_test" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="RaysMusicExchangeTest" />
+      <option name="METHOD_NAME" value="canRemoveFromStock" />
+      <option name="TEST_OBJECT" value="method" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <patterns />
+    </configuration>
     <configuration name="SheetMusicTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="MusicShopHomeWorkLab_test" />
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
@@ -704,23 +699,6 @@
       <option name="ALTERNATIVE_JRE_PATH" />
       <option name="PACKAGE_NAME" />
       <option name="MAIN_CLASS_NAME" />
-      <option name="METHOD_NAME" />
-      <option name="TEST_OBJECT" value="class" />
-      <option name="VM_PARAMETERS" value="-ea" />
-      <option name="PARAMETERS" />
-      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="TEST_SEARCH_SCOPE">
-        <value defaultName="singleModule" />
-      </option>
-      <patterns />
-    </configuration>
-    <configuration name="sheetMusicTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="MusicShopHomeWorkLab_test" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="PACKAGE_NAME" value="" />
-      <option name="MAIN_CLASS_NAME" value="sheetMusicTest" />
       <option name="METHOD_NAME" />
       <option name="TEST_OBJECT" value="class" />
       <option name="VM_PARAMETERS" value="-ea" />
@@ -755,19 +733,19 @@
       <listeners />
     </configuration>
     <list>
-      <item itemvalue="JUnit.sheetMusicTest" />
       <item itemvalue="JUnit.SheetMusicTest" />
       <item itemvalue="JUnit.All in MusicShopHomeWorkLab_test" />
       <item itemvalue="JUnit.RaysMusicExchangeTest.canGetStockLevel" />
       <item itemvalue="JUnit.RaysMusicExchangeTest.canAddToStock" />
+      <item itemvalue="JUnit.RaysMusicExchangeTest.canRemoveFromStock" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="JUnit.RaysMusicExchangeTest.canRemoveFromStock" />
         <item itemvalue="JUnit.RaysMusicExchangeTest.canAddToStock" />
         <item itemvalue="JUnit.RaysMusicExchangeTest.canGetStockLevel" />
         <item itemvalue="JUnit.All in MusicShopHomeWorkLab_test" />
         <item itemvalue="JUnit.SheetMusicTest" />
-        <item itemvalue="JUnit.sheetMusicTest" />
       </list>
     </recent_temporary>
   </component>
@@ -785,9 +763,6 @@
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="RaysMusicExchangeTest_canGetStockLevel - 2018.07.09 at 00h 23m 29s.xml">
-      <configuration name="RaysMusicExchangeTest.canGetStockLevel" configurationId="JUnit" />
-    </history-entry>
     <history-entry file="RaysMusicExchangeTest_canAddToStock - 2018.07.09 at 00h 27m 41s.xml">
       <configuration name="RaysMusicExchangeTest.canAddToStock" configurationId="JUnit" />
     </history-entry>
@@ -815,6 +790,9 @@
     <history-entry file="RaysMusicExchangeTest_canAddToStock - 2018.07.09 at 01h 20m 03s.xml">
       <configuration name="RaysMusicExchangeTest.canAddToStock" configurationId="JUnit" />
     </history-entry>
+    <history-entry file="RaysMusicExchangeTest_canAddToStock - 2018.07.09 at 01h 36m 46s.xml">
+      <configuration name="RaysMusicExchangeTest.canAddToStock" configurationId="JUnit" />
+    </history-entry>
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1280" height="734" extended-state="0" />
@@ -822,7 +800,7 @@
     <layout>
       <window_info anchor="right" id="Palette" order="5" />
       <window_info anchor="bottom" id="TODO" order="11" />
-      <window_info active="true" anchor="bottom" id="Messages" order="4" visible="true" weight="0.32967034" />
+      <window_info anchor="bottom" id="Messages" order="4" weight="0.32967034" />
       <window_info anchor="right" id="Palette&#9;" order="2" />
       <window_info id="Image Layers" order="4" />
       <window_info anchor="right" id="Capture Analysis" order="0" />
@@ -830,7 +808,7 @@
       <window_info anchor="right" id="Maven Projects" order="4" />
       <window_info anchor="bottom" id="Run" order="7" weight="0.32967034" />
       <window_info anchor="bottom" id="Version Control" order="2" />
-      <window_info anchor="bottom" id="Terminal" order="0" weight="0.32967034" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="0" visible="true" weight="0.32967034" />
       <window_info id="Capture Tool" order="2" />
       <window_info id="Designer" order="0" />
       <window_info content_ui="combo" id="Project" order="5" visible="true" weight="0.24959612" />
@@ -1097,9 +1075,21 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/RaysMusicExchangeTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="680">
+          <caret line="39" selection-start-line="39" selection-end-line="39" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#528#529#0" expanded="true" />
+            <element signature="e#591#592#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/RaysMusicExchange.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="313">
+        <state relative-caret-position="216">
           <caret line="21" selection-start-line="21" selection-end-line="21" />
           <folding>
             <element signature="imports" expanded="true" />
@@ -1109,18 +1099,6 @@
             <element signature="e#271#272#0" expanded="true" />
             <element signature="e#312#313#0" expanded="true" />
             <element signature="e#343#344#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/RaysMusicExchangeTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="134">
-          <caret line="14" selection-start-line="14" selection-end-line="14" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#528#529#0" expanded="true" />
-            <element signature="e#591#592#0" expanded="true" />
           </folding>
         </state>
       </provider>

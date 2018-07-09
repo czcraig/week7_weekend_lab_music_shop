@@ -20,6 +20,7 @@ public class RaysMusicExchange {
     }
 
 
-
-
+    public void removeFromStock() {
+        stock.remove(0);
+    }
 }

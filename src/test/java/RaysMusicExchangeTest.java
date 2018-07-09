@@ -20,7 +20,6 @@ public class RaysMusicExchangeTest {
       raysMusicExchange = new RaysMusicExchange();
       stock = new ArrayList<>();
       guitar = new Guitar("b", "c", 20,10,6);
-//
 
 
    }
@@ -37,5 +36,11 @@ public class RaysMusicExchangeTest {
       assertEquals(1,raysMusicExchange.getStockAmount());
    }
 
+    @Test
+    public void canRemoveFromStock() {
+        raysMusicExchange.addToStock(guitar);
+        raysMusicExchange.removeFromStock();
+        assertEquals(0,raysMusicExchange.getStockAmount());
 
+    }
 }
