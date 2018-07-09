@@ -1,6 +1,6 @@
 package Behaviours;
 
-public interface ISell {
+public interface  ISell {
 
     double calculateMarkUp();
 

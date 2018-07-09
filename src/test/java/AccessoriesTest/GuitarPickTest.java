@@ -1,5 +1,6 @@
 package AccessoriesTest;
 
+import ShopAccessories.GuitarPick;
 import org.junit.Before;
 import org.junit.Test;
 

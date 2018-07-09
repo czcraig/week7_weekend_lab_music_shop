@@ -2,7 +2,7 @@ package Instruments;
 
 import Behaviours.IPlay;
 
-public class Guitar extends Instrument  implements IPlay{
+public class Guitar extends Instrument {
 
     private int numberOfStrings;
 

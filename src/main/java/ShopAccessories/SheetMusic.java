@@ -1,5 +1,7 @@
-package AccessoriesTest;
+package ShopAccessories;
 
+
+import ShopAccessories.Accessories;
 
 public class SheetMusic extends Accessories {
 

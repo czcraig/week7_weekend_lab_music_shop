@@ -1,5 +1,6 @@
 package AccessoriesTest;
 
+import ShopAccessories.SheetMusic;
 import org.junit.Before;
 import org.junit.Test;
 

@@ -3,7 +3,7 @@ package Instruments;
 import Behaviours.IPlay;
 import Instruments.Instrument;
 
-public class Piano extends Instrument implements IPlay {
+public class Piano extends Instrument {
 
     private int numberOfKeys;
 

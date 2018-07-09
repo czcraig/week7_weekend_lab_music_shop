@@ -1,4 +1,4 @@
-package AccessoriesTest;
+package ShopAccessories;
 
 import Behaviours.ISell;
 

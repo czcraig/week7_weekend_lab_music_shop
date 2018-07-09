@@ -1,4 +1,4 @@
-package AccessoriesTest;
+package ShopAccessories;
 
 
 public class GuitarPick extends Accessories {

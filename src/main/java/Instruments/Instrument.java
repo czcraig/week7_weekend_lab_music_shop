@@ -1,5 +1,6 @@
 package Instruments;
 
+import Behaviours.IPlay;
 import Behaviours.ISell;
 
 public abstract class Instrument implements ISell {
@@ -37,6 +38,7 @@ public abstract class Instrument implements ISell {
     public double calculateMarkUp(){
         return getSalePrice() - getCostPrice();
     }
+
 
 
 }
